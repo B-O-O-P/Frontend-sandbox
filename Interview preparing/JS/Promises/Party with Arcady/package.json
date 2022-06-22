@@ -9,7 +9,7 @@
   "dependencies": {
     "eslint": "5.8.0",
     "eslint-config-hrundel": "1.4.0",
-    "got": "9.3.2",
+    "got": "11.8.5",
     "mocha": "7.1.2",
     "sinon": "7.1.1"
   }
